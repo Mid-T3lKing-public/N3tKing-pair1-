@@ -1,0 +1,23 @@
+
+{
+    "name": "N3tKing-pair1-session",
+    "description": "Web Session Generator",
+    "logo": "https://files.catbox.moe/tmtn0f.jpeg",
+    "repository": "https://github.com/Mid-T3lKing-public/N3tKing-pair1",
+    "keywords": ["Joshuamambo1-Tech"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "Just Leave This Blank",
+        "value": "",
+        "required": false 
+      }
+    }   
+
+}
