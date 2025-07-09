@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/Joshuamambo1"><img src="https://github.com/Mid-T3lKing-publicn.png" width="250" height="250" alt="Malvin Tech"/></a>
+ <a href="https://github.com/Joshuamambo1"><img src="https://github.com/Mid-T3lKing-publicn.png" width="250" height="250" alt="Joshuamambo1"/></a>
 
    
